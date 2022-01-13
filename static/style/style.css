@@ -1,0 +1,85 @@
+html,
+body {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+}
+
+body {
+    background-image: linear-gradient(rgba(171, 183, 133, 0.49), rgba(161, 213, 178, 0.16) 50%), url("/static/images/wallpaper.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    position: fixed;
+    font-family: 'Raleway', sans-serif;
+    font-size: 25px;
+
+}
+
+.card-box {
+    padding: 17rem 0;
+    background-color: #adfff0;
+    width: 35%;
+    margin: 50px auto 0;
+    border-radius: 20px;
+}
+
+hr {
+    position: absolute;
+    width: 10%;
+    top: 25%;
+}
+
+.left {
+    left: 32.5%;
+}
+
+.right {
+    right: 32.5%;
+}
+
+
+.profile-image {
+    width: 160px;
+    height: 160px;
+    position: absolute;
+    left: 44%;
+    top: 15%;
+
+}
+
+.title {
+    position: absolute;
+    top: 40%;
+    left: 42%;
+}
+
+.title h2 {
+    margin-left: 10px;
+}
+
+.contact {
+    position: absolute;
+    left: 39%;
+    top: 70%;
+}
+.fas,
+.fab{
+    font-size: 40px;
+    color: #56d062;
+}
+
+.fa-facebook {
+    color: #0334dd;
+}
+
+li {
+    display: inline-block;
+    margin-right: 40px;
+}
+
+footer p {
+    font-size: 20px;
+    text-align: center;
+    color: #fff;
+}

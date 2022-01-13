@@ -1,0 +1,109 @@
+/* Android-Devices */
+@media screen and (max-width: 360px) {
+    .card-box {
+        margin: 50px 0 3rem 35px;
+        width: 80%;
+        padding: 70% 0;
+
+    }
+
+    hr {
+        width: 10%;
+    }
+    .left {
+        left: 9.8%;
+    }
+
+    .right {
+        right: 11%;
+    }
+
+    .profile-image {
+        left: 28%;
+    }
+
+    .title {
+        left: 10%;
+    }
+
+    .title h2 {
+        text-align: center;
+    }
+
+    .contact {
+        left: 1.8rem;
+        top: 66%;
+    }
+
+}
+
+/* Iphone */
+@media screen and (min-width: 361px) and (max-width: 480px) {
+    .card-box {
+        margin: 50px 40px  4rem 40px;
+        width: 80%;
+        padding: 15rem 0;
+    }
+
+    hr {
+        width: 12%;
+    }
+
+    .left {
+        left: 2.6rem;
+    }
+
+
+    .right {
+        right: 2.6rem;
+    }
+
+    .profile-image {
+        left: 7rem;
+    }
+
+    .title {
+        left: 4rem;
+    }
+
+    .title h2 {
+        text-align: center;
+    }
+
+    .contact {
+        left: 3rem;
+        top: 27rem;
+    }
+
+}
+
+@media screen and (min-width: 768px) and (max-width: 770px) {
+    .card-box {
+        margin-left: 105px;
+        width: 35rem;
+    }
+
+    hr {
+        width: 10rem;
+    }
+
+    .left {
+        left: 6.7rem;
+    }
+
+    .right{
+        right: 6.7rem;
+    }
+
+    .profile-image {
+        left: 19rem;
+    }
+
+    .title {
+        left: 17rem;
+    }
+
+    .contact {
+        left: 15rem;
+    }
+}
