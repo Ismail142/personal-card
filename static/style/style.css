@@ -6,7 +6,7 @@ body {
 }
 
 body {
-    background-image: linear-gradient(rgba(171, 183, 133, 0.49), rgba(161, 213, 178, 0.16) 50%), url("/static/images/wallpaper.jpg");
+    background-image: linear-gradient(rgba(171, 183, 133, 0.49), rgba(161, 213, 178, 0.16) 50%), url("./static/images/wallpaper.jpg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
